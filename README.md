@@ -15,7 +15,7 @@ mechanism for comparing contexts.
 
 ![Alt text](Figures/frameworkFormalization.png)
 
-## Installation
+
 
 ### DATA
 
