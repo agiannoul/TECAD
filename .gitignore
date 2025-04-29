@@ -1,0 +1,29 @@
+# Ignore Python compiled files
+*.pyc
+*.pyo
+__pycache__/
+
+# Ignore .pickle and .pkl files
+*.pickle
+*.pkl
+
+# Ignore .npy files (NumPy arrays)
+*.npy
+
+# Ignore PyCharm project files
+.idea/
+mlruns/
+mlruns1/
+
+*.iml
+*.ipr
+*.iws
+*.db
+*.csv
+
+# Except these specific CSV files
+!nyc_taxi.csv
+!temp_data.csv
+!ExathlonResult.csv
+!model_dependent_1.0_cov_all_explanation_comparison.csv
+!model_dependent_1.0_explanation_comparison.csv
